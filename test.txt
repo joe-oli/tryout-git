@@ -1,0 +1,11 @@
+>copy con test.txt	<enter>
+The above cmd will create a text file "test.txt", and write anything you type on the console to it;
+When you are ready to end, press CTRL+Z <enter>
+
+Add all files in current dir (.) to local git
+>git add .
+
+and then 
+
+>git commit -m "First commit comment"
+
